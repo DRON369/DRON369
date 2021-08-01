@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0c0520?style=for-the-badge&logo=TypeScript)
 ![Angular](https://img.shields.io/badge/-Angular-0c0520?style=for-the-badge&logo=Angular&logoColor=dd0031)
 
-## 🤯 Буду рад больще узнать:
+## 🤯 Буду рад больше узнать:
 ![Redux](https://img.shields.io/badge/-Redux-0c0520?style=for-the-badge&logo=Redux)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0c0520?style=for-the-badge&logo=Vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-0c0520?style=for-the-badge&logo=Docker)
