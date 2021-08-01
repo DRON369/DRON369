@@ -1,6 +1,6 @@
 
 ![GIF-Приветствие](./messagif.gif)
-
+#
 ## 😎 Мои навыки:
 ![HTML5](https://img.shields.io/badge/-HTML5-0c0520?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0c0520?style=for-the-badge&logo=CSS3)
@@ -19,7 +19,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0c0520?style=for-the-badge&logo=Vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-0c0520?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0c0520?style=for-the-badge&logo=Kubernetes)
-
+# 
 ## ☎️ Контакты:
 [![email](https://img.shields.io/badge/@-email-0c0520?style=for-the-badge&)](mailto:MakhmutovAndrey@yandex.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-0c0520?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dron_369)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0c0520?style=for-the-badge&logo=LinkedIn&logoColor=27A0D9)](http://www.linkedin.com/in/dron369)
