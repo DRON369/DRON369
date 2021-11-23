@@ -12,7 +12,7 @@
 
 ## 🤓 Изучаю сейчас:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0c0520?style=for-the-badge&logo=TypeScript)
-![Mobx](https://img.shields.io/badge/-TypeScript-0c0520?style=for-the-badge&logo=Mobx)
+![Mobx](https://img.shields.io/badge/-Mobx-0c0520?style=for-the-badge&logo=Mobx)
 
 ## 🤯 Буду рад больше узнать:
 ![Redux](https://img.shields.io/badge/-Redux-0c0520?style=for-the-badge&logo=Redux)
